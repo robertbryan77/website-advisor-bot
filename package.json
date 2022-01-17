@@ -1,0 +1,8 @@
+{
+  "name": "bot-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/robertbryan77/website-advisor-bot.git",
+  "author": "RobertBryan77 <robert.bryan3010@gmail.com>",
+  "license": "MIT"
+}
